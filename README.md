@@ -1,1 +1,2 @@
-# first_hello
+this is basic quiz app usinf flutter
+
