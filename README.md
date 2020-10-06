@@ -1,2 +1,2 @@
-this is basic quiz app usinf flutter
+This is basic quiz app using flutter
 
